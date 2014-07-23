@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-SimpleCms::Application.config.secret_key_base = '507ac161289a4635bdf0974bf5a861b8ac477a05968b42944d6f7364067092938013bc894bc5322633c5307ebf2388091f3f7cf7c4374708f40356f725007565'
+SimpleCms::Application.config.secret_key_base = '16b85e8b0aca296b77b62ffb8eb0377303d821237d4233e20a455dfbc9dffddb85c20fba355cda5114d234fde4b1b58c26e5e98aa70bc2e054e08f74a741075e'
