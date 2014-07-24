@@ -8,6 +8,7 @@ gem 'mysql2'
 
 gem "acts_as_list", "~> 0.3.0"
 
+
 # Use SCSS for stylesheets
 #gem 'sass-rails', '~> 4.0.0'
 
